@@ -59,7 +59,7 @@ Highcharts.chart('container', {
     {
         name: 'Taichung',
         marker: {
-            symbol: 'square'
+            symbol: 'circle'
         },
         data: [22.3, 22.9, 25.2, 28.1, 30.7, 32.3, 33.3, 32.7, 32.3, 30.3, 27.6, 23.9]
     }
